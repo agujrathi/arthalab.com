@@ -1,2 +1,0 @@
-# arthalab.com
-arthalab
